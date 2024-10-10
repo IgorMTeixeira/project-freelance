@@ -1,4 +1,6 @@
 <?php
+//todo request da aplicação primeiramente vai cair aqui,
+// carregando tudo do autoload, do laravel e em seguida os requests
 
 use Illuminate\Http\Request;
 
