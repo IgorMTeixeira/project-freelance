@@ -20,7 +20,7 @@
                         <span class="text-white ">01</span><span>:</span>
                         <span class="text-white ">12</span><span>:</span>
                         <span class="text-white ">26</span><span>:</span>
-                        <span class="text-white ">64</span>
+                        <span class="text-white ">30</span>
                     </div>
                 </div>
             </div>
