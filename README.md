@@ -16,3 +16,51 @@ FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde 
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
+
+## Rodando o Projeto
+- Primeiro é necessário ter o Laravel, e as tecnologias seguintes instaladas:
+- **PHP** (versão 8.0 ou superior) <br>
+**Composer**  <br>
+**Node.js/NPM** <br>
+**MySQL** ou qualquer outro banco de dados compatível
+
+### Comandos
+
+Utilize o Composer para instalar as dependências do Laravel:
+  ```sh
+  composer install
+  ```
+<br>
+
+Rodar as migrations:
+```sh
+  php artisan migrate
+  ```
+<br>
+
+Popular o banco de dados:
+```sh
+    php artisan migrate:fresh --seed
+```
+<br>
+
+Instale as dependências do Node:
+```sh
+  npm install
+  ```
+<br>
+
+Compile os assets:
+  ```sh
+  npm run dev
+  ```
+<br>
+
+  Acesse o servidor:
+  ```sh
+  php artisan serve
+  ```
+  
+
+  
